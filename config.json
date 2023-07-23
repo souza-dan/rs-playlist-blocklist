@@ -1,0 +1,7 @@
+{
+    "blockDirectory": "blockRequests",
+    "songsDirectory": "songs",
+    "sessionId": "",
+    "songList": "rocksmithdlc.txt",
+    "sleepSeconds": "10"
+}
